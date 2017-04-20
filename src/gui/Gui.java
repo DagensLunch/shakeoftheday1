@@ -5,4 +5,6 @@ public class Gui {
 	hejuihiuhiuh
 	
 	balle
+	
+	ok
 }
